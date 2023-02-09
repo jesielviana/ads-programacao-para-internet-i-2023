@@ -1,6 +1,8 @@
 # Programação para Internet I
 
-Este material faz parte da disciplina de Programação para Internet I do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do Instituto Federal do Piauí (IFPI) Campus Picos.
+Disciplina de Programação para Internet I do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do Instituto Federal do Piauí (IFPI) Campus Picos.
+
+## Livro base da disciplina: [https://jesielviana.gitbook.io/webdev](https://jesielviana.gitbook.io/webdev)
 
 **Sumário**
 
