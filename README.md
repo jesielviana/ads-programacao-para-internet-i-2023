@@ -55,7 +55,7 @@ No processo de aprendizado dessas tecnologias, você também vai:
 1. Desenvolver habilidades técnicas para construção de aplicações web conforme os requisitos do cliente;
 1. Desenvolver habilidades interpessoais para realização de trabalho em equipe e colaboração em projetos de desenvolvimento de software.
 
-Acompanhamento dos objetivos de aprendizagem: [Vereda App](https://vereda.vercel.app/cursos/cbqB0QVqDbINm8Nm5SOH)
+**Acompanhamento dos objetivos de aprendizagem: [Vereda App](https://vereda.vercel.app/cursos/cbqB0QVqDbINm8Nm5SOH)**
 
 ## Pré-Requisitos
 
