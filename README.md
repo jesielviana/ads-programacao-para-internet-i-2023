@@ -17,9 +17,10 @@ Este material faz parte da disciplina de Programação para Internet I do Curso 
 
 ## Notas de aulas
 
-| Aula      | Assunto                         | Material    |
-| --------- | ------------------------------- | ----------- |
-| 7/03/2022 | Apresentação do plano de ensino | [slides](#) |
+| Aula       | Assunto                         | Material                                                     |
+| ---------- | ------------------------------- | ------------------------------------------------------------ |
+| 13/02/2023 | Apresentação do plano de ensino | <a target="_blank" href="https://bit.ly/3jU38R6" >slides</a> |
+| 17/02/2023 | Introdução a Web                | <a target="_blank" href="https://bit.ly/3xg3Zyu" >slides</a> |
 
 ## Objetivo do curso
 
