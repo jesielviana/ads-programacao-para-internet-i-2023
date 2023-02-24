@@ -19,10 +19,11 @@ Disciplina de Programação para Internet I do Curso Superior de Tecnologia em A
 
 ## Notas de aulas
 
-| Aula       | Assunto                         | Material                                                     |
-| ---------- | ------------------------------- | ------------------------------------------------------------ |
-| 13/02/2023 | Apresentação do plano de ensino | <a target="_blank" href="https://bit.ly/3jU38R6" >slides</a> |
-| 17/02/2023 | Introdução a Web                | <a target="_blank" href="https://bit.ly/3xg3Zyu" >slides</a> |
+| Aula       | Assunto                         | Material                                                                                    |
+| ---------- | ------------------------------- | ------------------------------------------------------------------------------------------- |
+| 13/02/2023 | Apresentação do plano de ensino | <a target="_blank" href="https://bit.ly/3jU38R6" >slides</a>                                |
+| 17/02/2023 | Introdução a Web                | <a target="_blank" href="https://bit.ly/3xg3Zyu" >slides</a>                                |
+| 24/02/2023 | Introdução a HTML               | <a target="_blank" href="https://jesielviana.gitbook.io/webdev/frontend/html" >ebook</a> |
 
 ## Objetivo do curso
 
