@@ -27,6 +27,10 @@ Disciplina de Programação para Internet I do Curso Superior de Tecnologia em A
 | 27/02/2023 | Introdução a CSS                | <a target="_blank" href="https://bit.ly/41IpSoi" >CSS</a>     |
 | 03/03/2023 | CSS Flexbox                     | <a target="_blank" href="https://bit.ly/3Z9cJTx" >Flexbox</a> |
 
+## Atividades
+
+- [Atividade 1 (Layout simples com HTML e CSS)](atividades/atividade-1.md)
+
 ## Objetivo do curso
 
 Este curso é uma introdução à programação para Web. Vamos aprender sobre os principais componentes da web, sobre o modelo cliente-servidor e de forma simplificada vamos entender como a internet e a web funcionam. E, principalmente, **vamos aprender como desenvolver aplicações web usando várias tecnologias**, tais como:
