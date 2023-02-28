@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Ubuntu;
+    margin: 0;
+    font-size: 16px;
+}
+
+header {
+    background-color: violet;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    margin: 1% 1%;
+    margin-left: ;
+    border-bottom: 100px solid #000;
+    padding: 50px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+}
+
+p {
+    color: orange;
+}
+
+.esporte {
+    color: green;
+}
