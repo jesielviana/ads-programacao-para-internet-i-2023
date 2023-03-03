@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', Verdana, sans-serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+header {
+    background-color: #8e7cc3;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    padding: 5px 16px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3rem;
+
+    padding: 0 8px;
+}
+
+nav a:not(:last-child) {
+    border-right: 1px solid #fff;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
