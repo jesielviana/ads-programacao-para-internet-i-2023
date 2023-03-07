@@ -30,6 +30,7 @@ Disciplina de Programação para Internet I do Curso Superior de Tecnologia em A
 ## Atividades
 
 - [Atividade 1 (Layout simples com HTML e CSS)](atividades/atividade-1.md) - entregra dia 03/03/2023
+- [Atividade 2 (Portfólio)](atividades/atividade-2.md) - entregra dia 13/03/2023
 
 ## Objetivo do curso
 
