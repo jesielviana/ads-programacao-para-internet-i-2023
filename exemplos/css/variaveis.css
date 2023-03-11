@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@300;400;500;700&display=swap');
+
+:root {
+    --color-primary: #1d756b;
+}
+
+
+body {
+    font-family: Sono;
+}
+
+.text-primary {
+    color: var(--color-primary);
+}
+
+.bg-primary {
+    background-color: var(--color-primary);
+}
+
+p {
+    border: 3px solid var(--color-primary)
+}
+
+button {
+    color: #fff;
+    padding: 8px;
+    border: none;
+    font-family: inherit;
+}
