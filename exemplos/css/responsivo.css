@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 20px;
+}
+
+div {
+    width: 30%;
+    border: 5px solid red;
+}
+
+
+
+@media(max-width: 768px) {
+    body {
+        flex-wrap: wrap;
+    }
+
+    div {
+        width: 48%;
+    }
+}
+
+@media(max-width: 576px) {
+    body {
+        flex-direction: column;
+    }
+
+    div {
+        width: 100%;
+    }
+}

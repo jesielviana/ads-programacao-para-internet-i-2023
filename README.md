@@ -26,6 +26,7 @@ Disciplina de Programação para Internet I do Curso Superior de Tecnologia em A
 | 24/02/2023 | Introdução a HTML               | <a target="_blank" href="https://bit.ly/3EI1BVk" >HTML</a>    |
 | 27/02/2023 | Introdução a CSS                | <a target="_blank" href="https://bit.ly/41IpSoi" >CSS</a>     |
 | 03/03/2023 | CSS Flexbox                     | <a target="_blank" href="https://bit.ly/3Z9cJTx" >Flexbox</a> |
+| 14/03/2023 | Web Design Responsivo           | <a target="_blank" href="https://bit.ly/3YVTE6s" >Slides</a> |
 
 ## Atividades
 
